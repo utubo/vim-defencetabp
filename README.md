@@ -1,7 +1,10 @@
 # vim-defencetabp
 
 Defence your tabpages!
+<!--
 ![image](https://github.com/user-attachments/assets/34e539a9-e803-498a-be7c-86c70d0bb43f)
+-->
+![image](https://raw.githubusercontent.com/utubo/zen-content-blob/main/images/20250602-play-tabpanel/defencetabp.gif)
 
 ## Get start
 

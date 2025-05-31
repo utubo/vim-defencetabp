@@ -25,7 +25,6 @@ def Rendar()
     endif
   endfor
   screen = ([''] + s)->join("\n%#TabPanel#")
-  g:a = screen
 enddef
 
 const TABPANEL_EXPR = '%!defencetabp#TabPanel()'

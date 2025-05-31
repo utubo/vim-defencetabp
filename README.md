@@ -1,6 +1,7 @@
 # vim-defencetabp
 
 Defence your tabpages!
+![image](https://github.com/user-attachments/assets/34e539a9-e803-498a-be7c-86c70d0bb43f)
 
 ## Get start
 
@@ -45,5 +46,3 @@ If the last tabpage is closed, quit vim.
 
 NYSL 0.9982
 https://www.kmonos.net/nysl/
-
-vim:tw=78:ts=8:noet:ft=help:norl:

@@ -80,7 +80,7 @@ def Init()
       })
     endfor
   endfor
-  # Sheild
+  # Shield
   for y in range(3, 5)
     for x in range(1, WIDTH)
       chars->add({

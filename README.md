@@ -29,18 +29,17 @@ You can call this `Start()` to start the game.
 
 ## Rule
 
+- `V` ... You
+- `A` ... Enemey
+- `-` ... Sheild
 
-`V` ... You
-`A` ... Enemey
-`-` ... Sheild
-
-Enemies shot to close tabpages.  
+Enemies shoot to close tabpages.  
 Shoot all enemies to save your tabpages.  
 If the last tabpage is closed, quit vim.
 
 ## Mappings
 
-- `<Space>` ... Shot
+- `<Space>` ... Shoot
 - `h` ...  Move left
 - `l` ...  Move right
 - `q` or `<Esc>` ... Quit this game.

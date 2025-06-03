@@ -22,7 +22,7 @@ cd ~/vim/pack/local/start
 git clone https://github.com/utubo/vim-defencetabp.git
 ```
 
-You can call this `Start()` to start the game.
+You can call `Start()` to start the game.
 ```vim
 :call defencetabp#Start()
 ```

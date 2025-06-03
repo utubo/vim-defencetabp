@@ -12,7 +12,7 @@ You can `:call defencetabp#Start()` to start the game.
 `A` ... Enemey
 `-` ... Sheild
 
-Enemies shot to close tabpages.
+Enemies shoot to close tabpages.
 Shoot all enemies to save your tabpages.
 If the last tabpage is closed, quit vim.
 
@@ -27,7 +27,7 @@ defencetabp#Start()
 Mappings:
 
 <Space>
-	Shot
+	Shoot
 
 h
 	Move left

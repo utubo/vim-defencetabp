@@ -30,7 +30,7 @@ You can call `Start()` to start the game.
 ## Rule
 
 - `V` ... You
-- `A` ... Enemey
+- `A` ... Enemy
 - `-` ... Sheild
 
 Enemies shoot to close tabpages.  

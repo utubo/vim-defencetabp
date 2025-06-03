@@ -9,7 +9,7 @@ Rule:
 You can `:call defencetabp#Start()` to start the game.
 
 `V` ... You
-`A` ... Enemey
+`A` ... Enemy
 `-` ... Sheild
 
 Enemies shoot to close tabpages.

@@ -31,7 +31,7 @@ You can call `Start()` to start the game.
 
 - `V` ... You
 - `A` ... Enemy
-- `-` ... Sheild
+- `-` ... Shield
 
 Enemies shoot to close tabpages.  
 Shoot all enemies to save your tabpages.  
@@ -46,5 +46,5 @@ If the last tabpage is closed, quit vim.
 
 ## License
 
-NYSL 0.9982
+NYSL 0.9982  
 https://www.kmonos.net/nysl/

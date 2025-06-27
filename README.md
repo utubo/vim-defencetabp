@@ -17,7 +17,7 @@ Vim 9.1 and +tabpanel
 Add rtp to vim-defencetabp.  
 e.g.
 ```bash
-mkdir -p ~/vim/pack/local/start
+mkdir -p ~/.vim/pack/local/start
 cd ~/vim/pack/local/start
 git clone https://github.com/utubo/vim-defencetabp.git
 ```
